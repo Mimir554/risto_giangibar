@@ -114,8 +114,7 @@ section {
 
 .swiper-button-next,
 .swiper-button-prev {
-    top: initial !important;
-    bottom: 1rem;
+    top: 50rem !important;
 }
 
 .header .navbar a:hover {
