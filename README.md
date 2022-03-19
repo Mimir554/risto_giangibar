@@ -1,3 +1,2 @@
 # risto_giangibar
-my first page,
-restaurant.
+my first page of a restaurant.
